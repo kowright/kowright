@@ -11,10 +11,9 @@
 
 
 <div align="center">
-🗺️ Digital nomad in the United States
-💻 5+ years in software development 
-📌Worked in corporate and startups 
+📌VR/AR/Digital Twin/Full Stack Dev &nbsp; &nbsp; 🗺️ Digital nomad in the United States &nbsp; &nbsp; 💻 5+ years in software development 
 </div>
+
 
 <br/>
 
@@ -55,28 +54,6 @@
 ![Linear](https://img.shields.io/badge/linear-%235E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 
-<br/>
-
-# Projects
-
-### Virtual/Augmented Reality 
-[work in progress VR game](https://github.com/kowright/shopkeeperVR)
-
-### IoT
-[Digital Twin](https://github.com/kowright/temperature-humidity-digital-twin)
-
-### Web & Mobile 
-[Recreation of the card game The Mind](https://github.com/kowright/the-mind)
-
-Project Management Website [BE](https://github.com/kowright/pm-node) [FE](https://github.com/kowright/pm-react)
-
-Chat App [BE](https://github.com/kowright/chat-backend) [FE](https://github.com/kowright/chat-backend)
-
-[Portfolio](https://github.com/kowright/next-netlify-starter)
-
-[Phone Visualization](https://github.com/kowright/phone-visualization)
-
-<br/>
 
 ### CLICKABLE LINKS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kortney-w-a0341680)
