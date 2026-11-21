@@ -1,22 +1,3 @@
-
-<!--
-**kowright/kowright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 ![Alt](name.gif)
 
 
@@ -28,8 +9,16 @@ Here are some ideas to get you started:
 ---
 </div>
 
+
+<div align="center">
+🗺️ Digital nomad in the United States
+💻 5+ years in software development 
+📌Worked in corporate and startups 
+</div>
+
 <br/>
-<br/>
+
+# Skills
 
 ### LANGUAGES & FRAMEWORKS
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -66,9 +55,34 @@ Here are some ideas to get you started:
 ![Linear](https://img.shields.io/badge/linear-%235E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 
+<br/>
+
+# Projects
+
+### Virtual/Augmented Reality 
+[work in progress VR game](https://github.com/kowright/shopkeeperVR)
+
+### IoT
+[Digital Twin](https://github.com/kowright/temperature-humidity-digital-twin)
+
+### Web & Mobile 
+[Recreation of the card game The Mind](https://github.com/kowright/the-mind)
+
+Project Management Website [BE](https://github.com/kowright/pm-node) [FE](https://github.com/kowright/pm-react)
+
+Chat App [BE](https://github.com/kowright/chat-backend) [FE](https://github.com/kowright/chat-backend)
+
+[Portfolio](https://github.com/kowright/next-netlify-starter)
+
+[Phone Visualization](https://github.com/kowright/phone-visualization)
+
+<br/>
+
 ### CLICKABLE LINKS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kortney-w-a0341680)
 [![Portfolio](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://kortneywrightportfolio.netlify.app/)
-![kortneybwright@gmail.com](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
-kortneybwright@gmail.com
+<br/>
+<br/>
+
+<div align="center">kortneybwright@gmail.com </div>
