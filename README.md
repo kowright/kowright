@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 ![C#](https://demolab.com)
 ![C#](https://shields.io)
 ![Blazor](https://shields.io)
-[![C#](https://badgen.net/discord/members/csharp)]
+![C#](https://shields.io)
+![Blazor](https://shields.io)
+![C#](https://demolab.com)
+<img src="https://shields.io" alt="C#" />
+
 
 
 
